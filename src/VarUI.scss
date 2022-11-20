@@ -135,7 +135,7 @@ $transition-time: 0.2s;
       border-radius: 0.2rem;
       color: $foreground-color;
       padding: 0.2rem 0.5rem;
-
+      height: 2rem;
       &:hover,
       &:focus {
         background: $input-background-hover-color;
@@ -225,7 +225,7 @@ $transition-time: 0.2s;
       background: $input-background-color;
       position: relative;
       flex: 1;
-      height: 1.3rem;
+      height: 2.0rem;
       border-radius: 0.2rem;
       overflow: hidden;
       cursor: pointer;
@@ -271,10 +271,9 @@ $transition-time: 0.2s;
       border: none;
       cursor: pointer;
       color: $foreground-color;
-      height: 1.3rem;
+      height: 2rem;
       margin-left: 0.4rem;
       border-radius: 0.25rem;
-
       display: flex;
       justify-content: center;
       align-items: center;
